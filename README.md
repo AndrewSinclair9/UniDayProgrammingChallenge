@@ -3,7 +3,7 @@
 
 5 different items different prices and some rules which affect the price.  
 
-| Item        | Price           | Dscount  |
+| Item        | Price           | Discount  |
 | ------------- |:-------------:| -----:|
 | A      | £8.00 | None |
 | B      |   £12.00    |   2 for £20.00 |
