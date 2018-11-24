@@ -22,3 +22,6 @@ HAVE A CLASS WITH 2 PUBLIC METHODS (NEED TO LOOK ON www.tutorialspoint.com for h
 
 ~~CREATE A GITHUB ACCOUNT AND HOST IT ON THERE MAYBE? ~~
 
+Update (24/11/2018) The time to submit is now, it's been a long journey with me learning how to use a Windows Form Application only at the beginning of the month. I'm proud of my effort so far and still proud if I get the placement or not, I just wanna say thank you to my class mates and college tutors for supporting me.
+
+Within the last week with the deadline closing in. I felt confident I was nearing to finishing it but I had a string of bad luck and had to start my code from scratch over and over again. I was close to giving up but my tutor gave me a big push in my morale to continue and aim for winning a placement even though I may be againist people from Universities.
